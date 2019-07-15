@@ -196,7 +196,9 @@ The model had the following accuracy and loss:
           42       0.93      0.97      0.95        90
 
    micro avg       0.93      0.93      0.93     12630
+
    macro avg       0.91      0.89      0.90     12630
+   
 weighted avg       0.93      0.93      0.93     12630
  
 ## Step 3: Test a Model on New Images
